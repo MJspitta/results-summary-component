@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Results Summary Component Solution](https://your-solution-url.com)
-- Live Site URL: [Results Summary Component Live Site](https://your-live-site-url.com)
+- Solution URL: [Results Summary Component Solution](https://www.frontendmentor.io/solutions/results-summary-component-xoARo2OCUG)
+- Live Site URL: [Results Summary Component Live Site](https://mjspitta.github.io/results-summary-component/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MJspitta](https://www.frontendmentor.io/profile/MJspitta)
